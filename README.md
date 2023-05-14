@@ -1,2 +1,2 @@
 # Extract-Gmails-and-Bd_Phone_numbers
-Here, extract the Gmail and Bd Phone numbers from a text file and save it into two files.
+Here Using regular expression in python, extract the Gmail and Bd Phone numbers from a generated text file and save it into new two text files.
